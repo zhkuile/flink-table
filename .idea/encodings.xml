@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-sql-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-sql-parser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-sql-parser-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-api-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-api-java-bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-api-scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-api-scala-bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-planner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-planner-blink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-runtime-blink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-uber" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-table-uber-blink" charset="UTF-8" />
+  </component>
+</project>

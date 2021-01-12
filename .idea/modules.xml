@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-sql-client/flink-sql-client_2.11.iml" filepath="$PROJECT_DIR$/flink-sql-client/flink-sql-client_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql-parser/flink-sql-parser.iml" filepath="$PROJECT_DIR$/flink-sql-parser/flink-sql-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql-parser-hive/flink-sql-parser-hive.iml" filepath="$PROJECT_DIR$/flink-sql-parser-hive/flink-sql-parser-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table.iml" filepath="$PROJECT_DIR$/flink-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-api-java/flink-table-api-java.iml" filepath="$PROJECT_DIR$/flink-table-api-java/flink-table-api-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-api-java-bridge/flink-table-api-java-bridge_2.11.iml" filepath="$PROJECT_DIR$/flink-table-api-java-bridge/flink-table-api-java-bridge_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-api-scala-bridge/flink-table-api-scala-bridge_2.11.iml" filepath="$PROJECT_DIR$/flink-table-api-scala-bridge/flink-table-api-scala-bridge_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-api-scala/flink-table-api-scala_2.11.iml" filepath="$PROJECT_DIR$/flink-table-api-scala/flink-table-api-scala_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-common/flink-table-common.iml" filepath="$PROJECT_DIR$/flink-table-common/flink-table-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-planner-blink/flink-table-planner-blink_2.11.iml" filepath="$PROJECT_DIR$/flink-table-planner-blink/flink-table-planner-blink_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-planner/flink-table-planner_2.11.iml" filepath="$PROJECT_DIR$/flink-table-planner/flink-table-planner_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-runtime-blink/flink-table-runtime-blink_2.11.iml" filepath="$PROJECT_DIR$/flink-table-runtime-blink/flink-table-runtime-blink_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-uber-blink/flink-table-uber-blink_2.11.iml" filepath="$PROJECT_DIR$/flink-table-uber-blink/flink-table-uber-blink_2.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-table-uber/flink-table-uber_2.11.iml" filepath="$PROJECT_DIR$/flink-table-uber/flink-table-uber_2.11.iml" />
+    </modules>
+  </component>
+</project>

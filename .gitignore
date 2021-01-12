@@ -1,0 +1,7 @@
+# Project exclude paths
+/flink-sql-parser/target/
+/flink-table-api-java/target/
+/flink-table-api-java-bridge/target/
+/flink-table-common/target/
+/flink-table-planner-blink/target/
+/flink-table-runtime-blink/target/
